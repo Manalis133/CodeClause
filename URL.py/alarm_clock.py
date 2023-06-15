@@ -15,7 +15,6 @@ def set_alarm():
 
     messagebox.showinfo("Alarm", "Wake up!")
 
-
 window = tk.Tk()
 window.title("Alarm Clock")
 
